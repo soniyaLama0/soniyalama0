@@ -1,4 +1,13 @@
-## Hi there 👋
+### Hi there 👋, I'm Soniya Lama
+
+💻 CSE Student | 🧠 Aspiring Machine Learning Engineer | 🐍 Python Learner
+
+- 🔭 Currently learning Python + ML  
+- 📚 Interested in AI Research & Applications  
+- 🌱 Building personal projects  
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/your-link)
+
+![Soniya's GitHub stats](https://github-readme-stats.vercel.app/api?username=soniyalama&show_icons=true&theme=dracula)
 
 <!--
 **soniyaLama0/soniyalama0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
