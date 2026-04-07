@@ -5,7 +5,7 @@
 - 🔭 Currently learning Python + ML  
 - 📚 Interested in AI Research & Applications  
 - 🌱 Building personal projects  
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/your-link)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/soniya-lama-25527a378/)
 
 ![Soniya's GitHub stats](https://github-readme-stats.vercel.app/api?username=soniyalama&show_icons=true&theme=dracula)
 
